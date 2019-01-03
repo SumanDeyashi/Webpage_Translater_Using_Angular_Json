@@ -1,1 +1,1 @@
-# Webpage_Translater_Using_Angular_Json
+# Webpage_Translator_Using_Angular_Json
