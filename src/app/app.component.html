@@ -1,0 +1,39 @@
+
+<div class="btn-group" dropdown>
+  <button type="button" class="btn btn-danger" translate>Menu</button>
+  <button type="button" dropdownToggle class="btn btn-danger dropdown-toggle"></button>
+  <ul *dropdownMenu class="dropdown-menu" role="menu">
+    <li role="menuitem"><a class="dropdown-item" href="#" translate>Home</a></li>
+    <li role="menuitem"><a class="dropdown-item" href="#" translate>About Us</a>
+    </li>
+    <li role="menuitem"><a class="dropdown-item" href="#"translate>Career</a></li>
+    <li class="divider dropdown-divider"></li>
+    <li role="menuitem"><a class="dropdown-item" href="#" translate>Contact Us</a>
+    </li>
+  </ul>
+</div>
+
+<br><br>
+<div class="translate">
+<h1 translate>Title</h1>
+
+<div>
+  {{ 'Intro' | translate:user}}
+</div>
+</div>
+<br><br><br>
+<div class="translate">
+  <input type="text" class="text">
+  <button class="button1">Google <span translate>Search</span></button>
+</div>
+
+
+<br><br><br><br><br>
+
+<div class="buttondiv">
+  <button  class="button" (click)="switchLanguage('en')">English</button>
+  <button class="button" (click)="switchLanguage('hindi')">Hindi</button>
+  <button class="button"(click)="switchLanguage('ben')">Bengali</button>
+  <button class="button" (click)="switchLanguage('fr')">French</button>
+  <button class="button" id="tamil" style="visibility:hidden">Tamil</button>
+</div>
