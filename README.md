@@ -1,10 +1,10 @@
-# Webpage_Translator_Using_Angular_Json
+# Webpage_Translator_Using_Angular_JSON
 # Description:
 Company(Hashworks IT Services Private Limited)_Internship_Project.
 
 Download all files and put it in one folder. After that open that folder on Visual Studio Code editor and install Node modules with help of "npm install" command. Then, comiple that project using "ng serve" command. Finally, open it on your favorite browser using http://localhost:4200 url.
 
-Technology Used: HTML/HTML5, CSS/CSS3, Angular7.
+Technology Used: HTML/HTML5, CSS/CSS3, Angular 4, JSON.
 
 Duration: Dec, 2018 to Jan, 2019.
 
