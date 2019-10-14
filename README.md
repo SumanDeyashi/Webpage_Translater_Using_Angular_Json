@@ -22,3 +22,4 @@ And every thing design with HTML/HTML5 tags and for style used CSS/CSS3 properti
 
 Finally, start the application using "ng serve" command.
  
+zxc
