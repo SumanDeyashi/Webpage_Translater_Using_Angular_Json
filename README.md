@@ -21,3 +21,4 @@ As mentioned before, sometimes have sentences to that contain variable and a use
 And every thing design with HTML/HTML5 tags and for style used CSS/CSS3 properties.
 
 Finally, start the application using "ng serve" command.
+fff
